@@ -8,8 +8,8 @@
 
 ## 首页
 
-![index](doc\index.png)
+![index](doc/index.png)
 
 ## 源码目录
 
-![project](doc\project.png)
+![project](doc/project.png)
