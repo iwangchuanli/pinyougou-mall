@@ -8,8 +8,8 @@
 
 ## 首页
 
-![index](G:\Programming\Projects\GitHub\wangchuanli001\pinyougou-mall\doc\index.png)
+![index](doc\index.png)
 
 ## 源码目录
 
-![project](G:\Programming\Projects\GitHub\wangchuanli001\pinyougou-mall\doc\project.png)
+![project](doc\project.png)
